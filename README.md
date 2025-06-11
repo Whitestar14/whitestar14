@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./Youtube Banner - Beauty in Contrast\'s Journey(1).png" alt="Sijibomi banner"/>
+<img src="./banner" alt="Sijibomi banner"/>
 </p>
 
 # 👋 Hi, I'm Olusunmbola Oluwasijibomi David (Sijibomi)

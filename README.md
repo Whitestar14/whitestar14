@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://github.com/Whitestar14/whitestar14/blob/main/YouTube%20Banner%20-%20Beauty%20in%20Contrast%20Sijibomi's%20Journey%20(1).png"/>
+</p>
 # 👋 Hi, I'm Olusunmbola Oluwasijibomi David (Sijibomi)
 
 I'm a 17-year-old Software Engineer, UI Designer, and Author based in Nigeria. I build tools that blend utility with elegance, and I'm deeply interested in the intersection of logic, aesthetics, and storytelling.

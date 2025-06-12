@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./banner" alt="Sijibomi banner"/>
+<img src="./banner.png" alt="Sijibomi banner"/>
 </p>
 
 # 👋 Hi, I'm Olusunmbola Oluwasijibomi David (Sijibomi)
@@ -41,4 +41,5 @@ Currently, I'm focused on frontend development with JavaScript and TypeScript, a
 ## 📬 Connect with Me
 
 - 🌐 Website: [sijibomiio.vercel.app](https://sijibomiio.vercel.app)  
+- ✨Twitter: [@xijibomi](https://x.com/xijibomi)
 - 🔗 Google Developer Profile: [g.dev/whitestar14studios](https://g.dev/whitestar14studios)

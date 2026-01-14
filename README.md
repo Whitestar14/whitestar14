@@ -1,45 +1,66 @@
 <p align="center">
-<img src="./banner.png" alt="Sijibomi banner"/>
+<img src="./banner.png" alt="sijibomi banner"/>
 </p>
 
-# 👋 Hi, I'm Olusunmbola Oluwasijibomi David (Sijibomi)
+## hi, i’m sijibomi
 
-I'm a 17-year-old Software Engineer, UI Designer, and Author based in Nigeria. I build tools that blend utility with elegance, and I'm deeply interested in the intersection of logic, aesthetics, and storytelling.
+i build small, opinionated tools with an emphasis on clarity, restraint, and finish.
+most of my work sits at the intersection of frontend engineering and interface design.
 
-Currently, I'm focused on frontend development with JavaScript and TypeScript, as well as designing developer-first experiences that are intuitive and efficient. I also write speculative fiction, where I explore themes like consciousness, memory, and simulation.
-
----
-
-## 🚀 Projects
-
-- **Mathlly** – An interactive web-based math learning platform designed to make abstract concepts visual and intuitive.
-- **Lumin.js** – A lightweight JavaScript developer toolkit inspired by Lodash, optimized for clarity and performance.
-- **Supermouse.js** – A customizable JavaScript package for enhanced mouse control and interactivity in UIs.
-- **Pytoregex** – A small web tool that converts simple Python patterns into equivalent regular expressions.
-- **Simpledo** – A minimalist to-do list app with a clean UI, focused on frictionless task management.
+i care a lot about **usable minimalism**: fewer features, sharper edges, better defaults.
+currently focused on javascript/typescript, capacitor-based apps, and performance-conscious ui systems.
 
 ---
 
-## 🛠️ Technologies
+## selected projects
 
-**Languages**: JavaScript, TypeScript, HTML, CSS, Node.js
-**Libraries/Tools**: React, Vue, TailwindCSS, PNPM, Vite  
-**Design**: Inkscape, Figma  
-**Other Tools**: Vercel, Git, Anytype
+**supermouse v2**
+a refined javascript utility for advanced mouse interactions and ui control.
+built with a strong focus on ergonomics, composability, and real-world usage.
+→ this is my most complete and representative work.
+
+**prism** (formerly mathlly)
+an interactive, visual-first approach to learning math concepts.
+focused on making abstractions tangible rather than exhaustive.
+
+**pane**
+a mobile utility app combining a flip clock, pomodoro, alarm, and stopwatch.
+built with capacitor; designed as a single-purpose, low-distraction time tool.
+
+**everyday**
+a minimalist adhd-friendly task tracker.
+deliberately avoids gamification and clutter in favor of frictionless capture.
+
+*(older or experimental projects are archived for reference.)*
 
 ---
 
-## 📚 Currently Learning
+## tools & stack
 
-- TypeScript best practices and advanced patterns
-- Rust programming fundamentals
-- UI design systems and accessibility
-- Building better mental models through writing and spaced repetition
+**languages**
+javascript, typescript, html, css
+
+**frontend**
+react, vue, tailwindcss, vite
+
+**tooling**
+pnpm, git, vercel
+
+**design**
+figma (primary), inkscape (occasionally)
 
 ---
 
-## 📬 Connect with Me
+## interests
 
-- 🌐 Website: [sijibomiio.vercel.app](https://sijibomiio.vercel.app)  
-- ✨Twitter: [@xijibomi](https://x.com/xijibomi)
-- 🔗 Google Developer Profile: [g.dev/whitestar14studios](https://g.dev/whitestar14studios)
+* interface minimalism and constraint-driven design
+* developer ergonomics and small, sharp abstractions
+* speculative fiction (consciousness, memory, simulation)
+
+---
+
+## links
+
+* website: [https://sijibomiio.vercel.app](https://sijibomiio.vercel.app)
+* twitter/x: [https://x.com/xijibomi](https://x.com/xijibomi)
+* google dev profile: [https://g.dev/whitestar14studios](https://g.dev/whitestar14studios)

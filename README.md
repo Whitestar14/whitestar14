@@ -10,13 +10,13 @@ frontend stuff, mostly at the interface/design layer. i like tools that do one t
 
 ## projects
 
-**[supermouse](https://github.com/Whitestar14/Supermouse)**
+**[supermouse](https://github.com/Whitestar14/supermouse-js)**
 a typescript engine for building custom cursors with physics-based movement, hover detection, now supports a real plugin system and API (`definePlugin`). my magnum opus and what i'm currently iterating on.
 
-**prism**
+**[prism](https://github.com/Whitestar14/mathlly)**
 a math tool built in vue, PWA-enabled. formerly mathlly.
 
-**pane**
+**[pane](https://github.com/Whitestar14/pane-app)**
 flip clock, pomodoro, alarm, stopwatch app built with capacitor and react.
 
 *(older projects's archived)*
